@@ -6,7 +6,7 @@
 
 Я прошел обучение в рамках авторского курса "Функциональное тестирование ПО"
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.sane4ek1986@gmail.com)
+- 📫 Как связаться со мной:[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sane4ek1986@gmail.com)
 
 ---
 
